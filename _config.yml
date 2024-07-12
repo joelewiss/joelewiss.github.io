@@ -25,10 +25,13 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -1,7 +1,11 @@
 ---
 permalink: /nerds/
-layout: page
+layout: paper
+title: NERDS
+description: A Non-invasive Environment For Remote Developer Studies
+code_link: https://github.com/joelewiss/nerds
 ---
 
-# NERDS: A Non-invasive Environment For Remote Developer Studies
+
+Welcome to NERDS: A Non-Invasive Environment For Remote Developer Studies.
 
