@@ -6,3 +6,6 @@ layout: default
 ---
 
 # Joe Lewis
+
+Projects:
+- [NERDS](/nerds/index.md)
