@@ -1,5 +1,4 @@
 ---
-permalink: /nerds/
 layout: paper
 title: NERDS
 description: A Non-invasive Environment For Remote Developer Studies
