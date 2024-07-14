@@ -8,4 +8,4 @@ layout: default
 # Joe Lewis
 
 Projects:
-- [NERDS](/nerds.md)
+- [NERDS]({% link nerds.md %})
