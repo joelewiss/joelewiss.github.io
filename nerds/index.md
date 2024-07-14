@@ -1,5 +1,5 @@
 ---
-layout: paper
+layout: page
 title: NERDS
 permalink: /nerds
 description: A Non-invasive Environment For Remote Developer Studies
